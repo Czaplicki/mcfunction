@@ -1,5 +1,5 @@
 {
-  "name": "mcfunction-support-dev",
+  "name": "mcfunction-support",
   "version": "2.1.2",
   "description": "Minecraft 1.15 function file, syntax highlighter, auto-complete and snippet provider.",
   "keywords": [

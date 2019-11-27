@@ -1,4 +1,4 @@
-provider = require('./provider.js')
+provider = require('./provider')
 module.exports =
   config: autocomplete:
     title: 'Enable Autocomplete'
