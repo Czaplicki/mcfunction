@@ -1,5 +1,5 @@
 {
-  "name": "mcfunction-support",
+  "name": "mcfunction-support-dev",
   "version": "2.1.2",
   "description": "Minecraft 1.15 function file, syntax highlighter, auto-complete and snippet provider.",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Czaplicki/mcfunction.git"
+    "url": ""
   },
   "main": "./lib/main",
   "license": "MIT",
